@@ -20,3 +20,6 @@ Contents
 
    usage
    api
+   WAPT
+   GLPI
+   Windows Server
