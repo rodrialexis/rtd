@@ -1,5 +1,5 @@
 
-Usage
+WAPT
 =====
 
 .. _installation:
@@ -7,11 +7,11 @@ Usage
 Installation
 ------------
 
-To use Lumache, first install it using pip:
+Nécessaire pour WAPT BLABLABLA
 
 .. code-block:: console
 
-   (.venv) $ pip install lumache
+   (.venv) $ apt install wapt
 
 Creating recipes
 ----------------
